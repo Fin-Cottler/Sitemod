@@ -1,0 +1,48 @@
+.transparent{
+    background-color: transparent;
+}
+.white{
+    background-color: white;
+}
+.black{
+    background-color: black;
+}
+.red{
+    background-color: red;
+}
+.orange{
+    background-color: orange;
+}
+.yellow{
+    background-color: yellow;
+}
+.lime{
+    background-color: lime;
+}
+.green{
+    background-color: green;
+}
+.blue{
+    background-color: blue;
+}
+.purple{
+    background-color: purple;
+}
+.magenta{
+    background-color: magenta;
+}
+.violet{
+    background-color: violet;
+}
+.pink{
+    background-color: hotpink;
+}
+.opacity-25{
+    opacity: 25%;
+}
+.opacity-50{
+    opacity: 50%;
+}
+.opacity-75{
+    opacity: 75%;
+}

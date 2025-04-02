@@ -1,0 +1,33 @@
+/* text sixe tags */
+
+.title {
+    font-size: xx-large;
+}
+
+.header {
+    font-size: larger;
+}
+
+.subheader {
+    font-size: large;
+}
+
+.body {
+    font-size: medium;
+}
+
+.subscript {
+    font-size: small;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.bolder {
+    font-weight: bolder;
+}
+
+.italic{
+    font-style: italic;
+}
