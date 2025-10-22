@@ -21,6 +21,15 @@ Importing Sitemod:
     import from the sitemod.css file
     <link rel="stylesheet" href="Sitemod/sitemod.css" media="screen">
 
+Using Sitemod:
+
+    All HTML is encased within a <div class="container"></div> element
+
+    Within the container element, div elements are created.
+    Tags are added to the classlist. 
+
+    <div class="tag1 tag2 tag3..."></div>
+
 Grid:
 
     row-12:
