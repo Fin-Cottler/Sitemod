@@ -115,7 +115,50 @@ Size Attributes:
         - Parent element resizes to fit content
 
 Text Attributes:
+    title 
+        - Title text size
+
+    header
+        - Header text size
+
+    subheader
+        - Subheader text size
+
+    body
+        - Standard text size
+
+    subscript
+        - Subscript text size
+
+    bold
+        - Bolded text
+
+    bolder
+        - Extra bold text
+
+    italic
+        - Italicized text
+
 
 Color Attributes:
+    
+    Listed below are tags to assign color to elements.
+        - red
+        - orange
+        - yellow
+        - lime
+        - green
+        - blue
+        - purple
+        - magenta
+        - violet 
+        - pink
+        - white
+        - black
+        - transparent
 
-Element Attributes:
+    Listed below are tags to assign opacity to elements.
+        - opacity-0
+        - opacity-25
+        - opacity-50
+        - opacity-75
