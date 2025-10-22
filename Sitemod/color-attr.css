@@ -37,6 +37,9 @@
 .pink{
     background-color: hotpink;
 }
+.opacity-0{
+    opacity: 0%;
+}
 .opacity-25{
     opacity: 25%;
 }
@@ -46,3 +49,4 @@
 .opacity-75{
     opacity: 75%;
 }
+
