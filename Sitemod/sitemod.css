@@ -1,3 +1,8 @@
+/*
+Created by Finley Cottler
+*/
+
+
 @import url("align-attr.css");
 @import url("color-attr.css");
 @import url("element-attr.css");
@@ -25,3 +30,4 @@ img {
     height: 100%;
     min-height: 10px;
 }
+
