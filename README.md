@@ -38,6 +38,14 @@ Grid:
     row-16:
         - creates a row with 16 columns with margins
 
+    row-6:
+        - creates a row with 6 columns with margins
+
+    row-4:
+        - creates a row with 4 columns with margins
+
+
+
     col-n:
         - creates a column that fills up n column slots of its row container starting with the left-most available slot
         - columns withing a row should add to the total space within the row (or less):
